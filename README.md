@@ -5,7 +5,7 @@
 
 - 🌱 J'apprend chaque jour et j'espère pouvoir ne jamais arrêté **Html/CSS/JS etc...**
 
-- 👨‍💻 Mes quelques projets [https://hamza-chouati-c9b5b1.netlify.app/#contact](https://hamza-chouati-c9b5b1.netlify.app/#contact)
+- 👨‍💻 Mes quelques projets En construction
 
 - 📫 Voila mon mail **hamza.chouati.pro@outlook.fr**
 
