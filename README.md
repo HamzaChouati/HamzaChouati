@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Hamza</h1>
+<h1 align="center">Hamza Chouati</h1>
 <h3 align="center">passionné de développement web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzachouati&label=Profile%20views&color=0e75b6&style=flat" alt="hamzachouati" /> </p>
